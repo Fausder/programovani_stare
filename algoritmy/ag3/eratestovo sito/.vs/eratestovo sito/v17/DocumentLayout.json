@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\OneDrive\\Dokumenty\\vysok\u00E1\\algoritmy\\ag3\\eratestovo sito\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3875A877-6D8E-4927-9E60-F2C12F6962F0}|eratestovo sito\\eratestovo sito.vcxproj|C:\\Users\\filip\\OneDrive\\Dokumenty\\vysok\u00E1\\algoritmy\\ag3\\eratestovo sito\\eratestovo sito\\sito.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3875A877-6D8E-4927-9E60-F2C12F6962F0}|eratestovo sito\\eratestovo sito.vcxproj|solutionrelative:eratestovo sito\\sito.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sito.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\OneDrive\\Dokumenty\\vysok\u00E1\\algoritmy\\ag3\\eratestovo sito\\eratestovo sito\\sito.cpp",
+              "RelativeDocumentMoniker": "eratestovo sito\\sito.cpp",
+              "ToolTip": "C:\\Users\\filip\\OneDrive\\Dokumenty\\vysok\u00E1\\algoritmy\\ag3\\eratestovo sito\\eratestovo sito\\sito.cpp",
+              "RelativeToolTip": "eratestovo sito\\sito.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T08:51:40.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+﻿  cv2.cpp
+C:\Users\filip\Documents\vysoká\programovani_stare\algoritmy\algoritmy\algoritmy\cv2.cpp(49,27): warning C4267: argument: Převod z: size_t na: int, může dojít ke ztrátě dat.
+C:\Users\filip\Documents\vysoká\programovani_stare\algoritmy\algoritmy\algoritmy\cv2.cpp(57,39): warning C4390: ; – Našel se prázdný řízený příkaz; zadali jste ho tak záměrně?
+  algoritmy.vcxproj -> C:\Users\filip\Documents\vysoká\programovani_stare\algoritmy\algoritmy\x64\Debug\algoritmy.exe

@@ -1,0 +1,5 @@
+﻿  BSTree.cpp
+  main.cpp
+  Generování kódu...
+C:\Users\filip\Documents\vysoká\programovani_stare\algoritmy\ag9_2\ag9_2\BSTree.cpp(112,1): warning C4715: isSortedAsc: ne všechny cesty k ovládacím prvkům vrací hodnotu
+  ag9_2.vcxproj -> C:\Users\filip\Documents\vysoká\programovani_stare\algoritmy\ag9_2\x64\Debug\ag9_2.exe

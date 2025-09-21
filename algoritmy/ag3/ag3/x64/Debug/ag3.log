@@ -1,0 +1,5 @@
+﻿  ag3.cpp
+  eraterovosito.cpp
+  Generování kódu...
+eraterovosito.obj : error LNK2005: main už je definované v ag3.obj.
+C:\Users\filip\Documents\vysoká\programovani_stare\algoritmy\ag3\x64\Debug\ag3.exe : fatal error LNK1169: Našel se jeden nebo víc symbolů, které jsou definované víckrát.
