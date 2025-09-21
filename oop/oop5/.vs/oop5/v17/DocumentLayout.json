@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9182B2-6ABC-4A06-B28D-4F86EDC1E269}|oop5\\oop5.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\Bank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C9182B2-6ABC-4A06-B28D-4F86EDC1E269}|oop5\\oop5.vcxproj|solutionrelative:oop5\\Bank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9182B2-6ABC-4A06-B28D-4F86EDC1E269}|oop5\\oop5.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C9182B2-6ABC-4A06-B28D-4F86EDC1E269}|oop5\\oop5.vcxproj|solutionrelative:oop5\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9182B2-6ABC-4A06-B28D-4F86EDC1E269}|oop5\\oop5.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C9182B2-6ABC-4A06-B28D-4F86EDC1E269}|oop5\\oop5.vcxproj|solutionrelative:oop5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9182B2-6ABC-4A06-B28D-4F86EDC1E269}|oop5\\oop5.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C9182B2-6ABC-4A06-B28D-4F86EDC1E269}|oop5\\oop5.vcxproj|solutionrelative:oop5\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9182B2-6ABC-4A06-B28D-4F86EDC1E269}|oop5\\oop5.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\Client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C9182B2-6ABC-4A06-B28D-4F86EDC1E269}|oop5\\oop5.vcxproj|solutionrelative:oop5\\Client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9182B2-6ABC-4A06-B28D-4F86EDC1E269}|oop5\\oop5.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C9182B2-6ABC-4A06-B28D-4F86EDC1E269}|oop5\\oop5.vcxproj|solutionrelative:oop5\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9182B2-6ABC-4A06-B28D-4F86EDC1E269}|oop5\\oop5.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\Bank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C9182B2-6ABC-4A06-B28D-4F86EDC1E269}|oop5\\oop5.vcxproj|solutionrelative:oop5\\Bank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Client.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\Client.cpp",
+              "RelativeDocumentMoniker": "oop5\\Client.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\Client.cpp",
+              "RelativeToolTip": "oop5\\Client.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T13:16:10.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.h",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\Client.h",
+              "RelativeDocumentMoniker": "oop5\\Client.h",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\Client.h",
+              "RelativeToolTip": "oop5\\Client.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T10:40:53.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\Account.cpp",
+              "RelativeDocumentMoniker": "oop5\\Account.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\Account.cpp",
+              "RelativeToolTip": "oop5\\Account.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T13:16:45.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.h",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\Account.h",
+              "RelativeDocumentMoniker": "oop5\\Account.h",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\Account.h",
+              "RelativeToolTip": "oop5\\Account.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T10:41:11.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\Bank.cpp",
+              "RelativeDocumentMoniker": "oop5\\Bank.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\Bank.cpp",
+              "RelativeToolTip": "oop5\\Bank.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T13:16:18.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bank.h",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\Bank.h",
+              "RelativeDocumentMoniker": "oop5\\Bank.h",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\Bank.h",
+              "RelativeToolTip": "oop5\\Bank.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-19T10:41:21.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\main.cpp",
+              "RelativeDocumentMoniker": "oop5\\main.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5\\oop5\\main.cpp",
+              "RelativeToolTip": "oop5\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T10:40:38.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

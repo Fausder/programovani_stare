@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F278D1-B824-40FB-9873-2FA4D54E7F4C}|oop12\\oop12.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1F278D1-B824-40FB-9873-2FA4D54E7F4C}|oop12\\oop12.vcxproj|solutionrelative:oop12\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F278D1-B824-40FB-9873-2FA4D54E7F4C}|oop12\\oop12.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\CreditAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1F278D1-B824-40FB-9873-2FA4D54E7F4C}|oop12\\oop12.vcxproj|solutionrelative:oop12\\CreditAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F278D1-B824-40FB-9873-2FA4D54E7F4C}|oop12\\oop12.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1F278D1-B824-40FB-9873-2FA4D54E7F4C}|oop12\\oop12.vcxproj|solutionrelative:oop12\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F278D1-B824-40FB-9873-2FA4D54E7F4C}|oop12\\oop12.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1F278D1-B824-40FB-9873-2FA4D54E7F4C}|oop12\\oop12.vcxproj|solutionrelative:oop12\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F278D1-B824-40FB-9873-2FA4D54E7F4C}|oop12\\oop12.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\AbstractAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1F278D1-B824-40FB-9873-2FA4D54E7F4C}|oop12\\oop12.vcxproj|solutionrelative:oop12\\AbstractAccount.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F278D1-B824-40FB-9873-2FA4D54E7F4C}|oop12\\oop12.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\AbstractAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1F278D1-B824-40FB-9873-2FA4D54E7F4C}|oop12\\oop12.vcxproj|solutionrelative:oop12\\AbstractAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F278D1-B824-40FB-9873-2FA4D54E7F4C}|oop12\\oop12.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\CreditAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1F278D1-B824-40FB-9873-2FA4D54E7F4C}|oop12\\oop12.vcxproj|solutionrelative:oop12\\CreditAccount.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F278D1-B824-40FB-9873-2FA4D54E7F4C}|oop12\\oop12.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1F278D1-B824-40FB-9873-2FA4D54E7F4C}|oop12\\oop12.vcxproj|solutionrelative:oop12\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F278D1-B824-40FB-9873-2FA4D54E7F4C}|oop12\\oop12.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\Client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1F278D1-B824-40FB-9873-2FA4D54E7F4C}|oop12\\oop12.vcxproj|solutionrelative:oop12\\Client.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AbstractAccount.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\AbstractAccount.cpp",
+              "RelativeDocumentMoniker": "oop12\\AbstractAccount.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\AbstractAccount.cpp",
+              "RelativeToolTip": "oop12\\AbstractAccount.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T13:16:31.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreditAccount.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\CreditAccount.cpp",
+              "RelativeDocumentMoniker": "oop12\\CreditAccount.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\CreditAccount.cpp",
+              "RelativeToolTip": "oop12\\CreditAccount.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T13:13:21.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Client.h",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\Client.h",
+              "RelativeDocumentMoniker": "oop12\\Client.h",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\Client.h",
+              "RelativeToolTip": "oop12\\Client.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T13:11:43.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\Account.cpp",
+              "RelativeDocumentMoniker": "oop12\\Account.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\Account.cpp",
+              "RelativeToolTip": "oop12\\Account.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T13:10:32.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreditAccount.h",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\CreditAccount.h",
+              "RelativeDocumentMoniker": "oop12\\CreditAccount.h",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\CreditAccount.h",
+              "RelativeToolTip": "oop12\\CreditAccount.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T13:08:54.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.h",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\Account.h",
+              "RelativeDocumentMoniker": "oop12\\Account.h",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\Account.h",
+              "RelativeToolTip": "oop12\\Account.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T13:07:26.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\Client.cpp",
+              "RelativeDocumentMoniker": "oop12\\Client.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\Client.cpp",
+              "RelativeToolTip": "oop12\\Client.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T13:07:09.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AbstractAccount.h",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\AbstractAccount.h",
+              "RelativeDocumentMoniker": "oop12\\AbstractAccount.h",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\AbstractAccount.h",
+              "RelativeToolTip": "oop12\\AbstractAccount.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T13:03:21.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\main.cpp",
+              "RelativeDocumentMoniker": "oop12\\main.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop12\\oop12\\main.cpp",
+              "RelativeToolTip": "oop12\\main.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T13:00:59.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

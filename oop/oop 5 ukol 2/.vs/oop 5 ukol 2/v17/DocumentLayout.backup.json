@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96E306B2-4DCD-40F8-8584-DF54A2FF7163}|oop 5 ukol 2\\oop 5 ukol 2.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96E306B2-4DCD-40F8-8584-DF54A2FF7163}|oop 5 ukol 2\\oop 5 ukol 2.vcxproj|solutionrelative:oop 5 ukol 2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E306B2-4DCD-40F8-8584-DF54A2FF7163}|oop 5 ukol 2\\oop 5 ukol 2.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Casino.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96E306B2-4DCD-40F8-8584-DF54A2FF7163}|oop 5 ukol 2\\oop 5 ukol 2.vcxproj|solutionrelative:oop 5 ukol 2\\Casino.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E306B2-4DCD-40F8-8584-DF54A2FF7163}|oop 5 ukol 2\\oop 5 ukol 2.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Casino.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96E306B2-4DCD-40F8-8584-DF54A2FF7163}|oop 5 ukol 2\\oop 5 ukol 2.vcxproj|solutionrelative:oop 5 ukol 2\\Casino.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E306B2-4DCD-40F8-8584-DF54A2FF7163}|oop 5 ukol 2\\oop 5 ukol 2.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Cash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96E306B2-4DCD-40F8-8584-DF54A2FF7163}|oop 5 ukol 2\\oop 5 ukol 2.vcxproj|solutionrelative:oop 5 ukol 2\\Cash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E306B2-4DCD-40F8-8584-DF54A2FF7163}|oop 5 ukol 2\\oop 5 ukol 2.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Croupier.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96E306B2-4DCD-40F8-8584-DF54A2FF7163}|oop 5 ukol 2\\oop 5 ukol 2.vcxproj|solutionrelative:oop 5 ukol 2\\Croupier.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E306B2-4DCD-40F8-8584-DF54A2FF7163}|oop 5 ukol 2\\oop 5 ukol 2.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Cash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96E306B2-4DCD-40F8-8584-DF54A2FF7163}|oop 5 ukol 2\\oop 5 ukol 2.vcxproj|solutionrelative:oop 5 ukol 2\\Cash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E306B2-4DCD-40F8-8584-DF54A2FF7163}|oop 5 ukol 2\\oop 5 ukol 2.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Gamer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96E306B2-4DCD-40F8-8584-DF54A2FF7163}|oop 5 ukol 2\\oop 5 ukol 2.vcxproj|solutionrelative:oop 5 ukol 2\\Gamer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E306B2-4DCD-40F8-8584-DF54A2FF7163}|oop 5 ukol 2\\oop 5 ukol 2.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Gamer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96E306B2-4DCD-40F8-8584-DF54A2FF7163}|oop 5 ukol 2\\oop 5 ukol 2.vcxproj|solutionrelative:oop 5 ukol 2\\Gamer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E306B2-4DCD-40F8-8584-DF54A2FF7163}|oop 5 ukol 2\\oop 5 ukol 2.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Croupier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{96E306B2-4DCD-40F8-8584-DF54A2FF7163}|oop 5 ukol 2\\oop 5 ukol 2.vcxproj|solutionrelative:oop 5 ukol 2\\Croupier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Gamer.h",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Gamer.h",
+              "RelativeDocumentMoniker": "oop 5 ukol 2\\Gamer.h",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Gamer.h",
+              "RelativeToolTip": "oop 5 ukol 2\\Gamer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T14:25:22.605Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gamer.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Gamer.cpp",
+              "RelativeDocumentMoniker": "oop 5 ukol 2\\Gamer.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Gamer.cpp",
+              "RelativeToolTip": "oop 5 ukol 2\\Gamer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:26:55.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Croupier.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Croupier.cpp",
+              "RelativeDocumentMoniker": "oop 5 ukol 2\\Croupier.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Croupier.cpp",
+              "RelativeToolTip": "oop 5 ukol 2\\Croupier.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:26:45.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Casino.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Casino.cpp",
+              "RelativeDocumentMoniker": "oop 5 ukol 2\\Casino.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Casino.cpp",
+              "RelativeToolTip": "oop 5 ukol 2\\Casino.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:26:39.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Casino.h",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Casino.h",
+              "RelativeDocumentMoniker": "oop 5 ukol 2\\Casino.h",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Casino.h",
+              "RelativeToolTip": "oop 5 ukol 2\\Casino.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T14:25:13.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cash.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Cash.cpp",
+              "RelativeDocumentMoniker": "oop 5 ukol 2\\Cash.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Cash.cpp",
+              "RelativeToolTip": "oop 5 ukol 2\\Cash.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:26:33.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cash.h",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Cash.h",
+              "RelativeDocumentMoniker": "oop 5 ukol 2\\Cash.h",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Cash.h",
+              "RelativeToolTip": "oop 5 ukol 2\\Cash.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T14:26:18.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Croupier.h",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Croupier.h",
+              "RelativeDocumentMoniker": "oop 5 ukol 2\\Croupier.h",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\Croupier.h",
+              "RelativeToolTip": "oop 5 ukol 2\\Croupier.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T14:26:08.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\main.cpp",
+              "RelativeDocumentMoniker": "oop 5 ukol 2\\main.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop 5 ukol 2\\oop 5 ukol 2\\main.cpp",
+              "RelativeToolTip": "oop 5 ukol 2\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:25:02.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

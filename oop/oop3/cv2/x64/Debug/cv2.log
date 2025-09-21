@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: Zprostředkující adresář (x64\Debug\) obsahuje soubory sdílené z jiného projektu (cv2.vcxproj). To může způsobit nesprávné chování při čištění a opětovném sestavení.
+  KeyValue.cpp
+  main.cpp
+  PersonRecord.cpp
+  Wallet.cpp
+  Generování kódu...
+  cv2.vcxproj -> C:\Users\filip\OneDrive\Dokumenty\vysoká\oop\oop3\x64\Debug\oop3.exe

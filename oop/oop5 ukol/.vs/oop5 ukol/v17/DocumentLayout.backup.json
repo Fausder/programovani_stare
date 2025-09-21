@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{779F789E-8771-4AFF-861D-0E9F8460CD60}|oop5 ukol\\oop5 ukol.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{779F789E-8771-4AFF-861D-0E9F8460CD60}|oop5 ukol\\oop5 ukol.vcxproj|solutionrelative:oop5 ukol\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779F789E-8771-4AFF-861D-0E9F8460CD60}|oop5 ukol\\oop5 ukol.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{779F789E-8771-4AFF-861D-0E9F8460CD60}|oop5 ukol\\oop5 ukol.vcxproj|solutionrelative:oop5 ukol\\Library.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779F789E-8771-4AFF-861D-0E9F8460CD60}|oop5 ukol\\oop5 ukol.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Loan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{779F789E-8771-4AFF-861D-0E9F8460CD60}|oop5 ukol\\oop5 ukol.vcxproj|solutionrelative:oop5 ukol\\Loan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779F789E-8771-4AFF-861D-0E9F8460CD60}|oop5 ukol\\oop5 ukol.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{779F789E-8771-4AFF-861D-0E9F8460CD60}|oop5 ukol\\oop5 ukol.vcxproj|solutionrelative:oop5 ukol\\Library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779F789E-8771-4AFF-861D-0E9F8460CD60}|oop5 ukol\\oop5 ukol.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Loan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{779F789E-8771-4AFF-861D-0E9F8460CD60}|oop5 ukol\\oop5 ukol.vcxproj|solutionrelative:oop5 ukol\\Loan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779F789E-8771-4AFF-861D-0E9F8460CD60}|oop5 ukol\\oop5 ukol.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Member.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{779F789E-8771-4AFF-861D-0E9F8460CD60}|oop5 ukol\\oop5 ukol.vcxproj|solutionrelative:oop5 ukol\\Member.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779F789E-8771-4AFF-861D-0E9F8460CD60}|oop5 ukol\\oop5 ukol.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{779F789E-8771-4AFF-861D-0E9F8460CD60}|oop5 ukol\\oop5 ukol.vcxproj|solutionrelative:oop5 ukol\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779F789E-8771-4AFF-861D-0E9F8460CD60}|oop5 ukol\\oop5 ukol.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{779F789E-8771-4AFF-861D-0E9F8460CD60}|oop5 ukol\\oop5 ukol.vcxproj|solutionrelative:oop5 ukol\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779F789E-8771-4AFF-861D-0E9F8460CD60}|oop5 ukol\\oop5 ukol.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{779F789E-8771-4AFF-861D-0E9F8460CD60}|oop5 ukol\\oop5 ukol.vcxproj|solutionrelative:oop5 ukol\\Member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\main.cpp",
+              "RelativeDocumentMoniker": "oop5 ukol\\main.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\main.cpp",
+              "RelativeToolTip": "oop5 ukol\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T10:09:23.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Library.cpp",
+              "RelativeDocumentMoniker": "oop5 ukol\\Library.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Library.cpp",
+              "RelativeToolTip": "oop5 ukol\\Library.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T10:08:58.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Library.h",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Library.h",
+              "RelativeDocumentMoniker": "oop5 ukol\\Library.h",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Library.h",
+              "RelativeToolTip": "oop5 ukol\\Library.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T10:08:30.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Loan.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Loan.cpp",
+              "RelativeDocumentMoniker": "oop5 ukol\\Loan.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Loan.cpp",
+              "RelativeToolTip": "oop5 ukol\\Loan.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T10:08:13.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Loan.h",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Loan.h",
+              "RelativeDocumentMoniker": "oop5 ukol\\Loan.h",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Loan.h",
+              "RelativeToolTip": "oop5 ukol\\Loan.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T10:04:23.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Member.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Member.cpp",
+              "RelativeDocumentMoniker": "oop5 ukol\\Member.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Member.cpp",
+              "RelativeToolTip": "oop5 ukol\\Member.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T10:04:10.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Member.h",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Member.h",
+              "RelativeDocumentMoniker": "oop5 ukol\\Member.h",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Member.h",
+              "RelativeToolTip": "oop5 ukol\\Member.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T10:03:35.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Book.cpp",
+              "RelativeDocumentMoniker": "oop5 ukol\\Book.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Book.cpp",
+              "RelativeToolTip": "oop5 ukol\\Book.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T10:03:22.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.h",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Book.h",
+              "RelativeDocumentMoniker": "oop5 ukol\\Book.h",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop5 ukol\\oop5 ukol\\Book.h",
+              "RelativeToolTip": "oop5 ukol\\Book.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T10:03:03.957Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\OneDrive\\Dokumenty\\vysok\u00E1\\oop\\oop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E4090A8-8EEC-4348-A428-92DD9EF5172B}|oop\\oop.vcxproj|C:\\Users\\filip\\OneDrive\\Dokumenty\\vysok\u00E1\\oop\\oop\\oop\\cv2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E4090A8-8EEC-4348-A428-92DD9EF5172B}|oop\\oop.vcxproj|solutionrelative:oop\\cv2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cv2.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\OneDrive\\Dokumenty\\vysok\u00E1\\oop\\oop\\oop\\cv2.cpp",
+              "RelativeDocumentMoniker": "oop\\cv2.cpp",
+              "ToolTip": "C:\\Users\\filip\\OneDrive\\Dokumenty\\vysok\u00E1\\oop\\oop\\oop\\cv2.cpp",
+              "RelativeToolTip": "oop\\cv2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-26T09:37:50.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

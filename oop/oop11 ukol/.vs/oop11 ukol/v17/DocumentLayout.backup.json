@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68DE0D45-E4FE-40D5-AF10-BD991ECA5A1D}|oop11 ukol\\oop11 ukol.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68DE0D45-E4FE-40D5-AF10-BD991ECA5A1D}|oop11 ukol\\oop11 ukol.vcxproj|solutionrelative:oop11 ukol\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DE0D45-E4FE-40D5-AF10-BD991ECA5A1D}|oop11 ukol\\oop11 ukol.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\GeometricObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68DE0D45-E4FE-40D5-AF10-BD991ECA5A1D}|oop11 ukol\\oop11 ukol.vcxproj|solutionrelative:oop11 ukol\\GeometricObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DE0D45-E4FE-40D5-AF10-BD991ECA5A1D}|oop11 ukol\\oop11 ukol.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\Obdelnik.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68DE0D45-E4FE-40D5-AF10-BD991ECA5A1D}|oop11 ukol\\oop11 ukol.vcxproj|solutionrelative:oop11 ukol\\Obdelnik.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DE0D45-E4FE-40D5-AF10-BD991ECA5A1D}|oop11 ukol\\oop11 ukol.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\GeometricObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68DE0D45-E4FE-40D5-AF10-BD991ECA5A1D}|oop11 ukol\\oop11 ukol.vcxproj|solutionrelative:oop11 ukol\\GeometricObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DE0D45-E4FE-40D5-AF10-BD991ECA5A1D}|oop11 ukol\\oop11 ukol.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\Ctverec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68DE0D45-E4FE-40D5-AF10-BD991ECA5A1D}|oop11 ukol\\oop11 ukol.vcxproj|solutionrelative:oop11 ukol\\Ctverec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DE0D45-E4FE-40D5-AF10-BD991ECA5A1D}|oop11 ukol\\oop11 ukol.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\Obdelnik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68DE0D45-E4FE-40D5-AF10-BD991ECA5A1D}|oop11 ukol\\oop11 ukol.vcxproj|solutionrelative:oop11 ukol\\Obdelnik.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DE0D45-E4FE-40D5-AF10-BD991ECA5A1D}|oop11 ukol\\oop11 ukol.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\Kruh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68DE0D45-E4FE-40D5-AF10-BD991ECA5A1D}|oop11 ukol\\oop11 ukol.vcxproj|solutionrelative:oop11 ukol\\Kruh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DE0D45-E4FE-40D5-AF10-BD991ECA5A1D}|oop11 ukol\\oop11 ukol.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\Ctverec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68DE0D45-E4FE-40D5-AF10-BD991ECA5A1D}|oop11 ukol\\oop11 ukol.vcxproj|solutionrelative:oop11 ukol\\Ctverec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DE0D45-E4FE-40D5-AF10-BD991ECA5A1D}|oop11 ukol\\oop11 ukol.vcxproj|C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\Kruh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68DE0D45-E4FE-40D5-AF10-BD991ECA5A1D}|oop11 ukol\\oop11 ukol.vcxproj|solutionrelative:oop11 ukol\\Kruh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeometricObject.h",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\GeometricObject.h",
+              "RelativeDocumentMoniker": "oop11 ukol\\GeometricObject.h",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\GeometricObject.h",
+              "RelativeToolTip": "oop11 ukol\\GeometricObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-06T15:07:18.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeometricObject.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\GeometricObject.cpp",
+              "RelativeDocumentMoniker": "oop11 ukol\\GeometricObject.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\GeometricObject.cpp",
+              "RelativeToolTip": "oop11 ukol\\GeometricObject.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vyAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T15:19:19.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\main.cpp",
+              "RelativeDocumentMoniker": "oop11 ukol\\main.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\main.cpp",
+              "RelativeToolTip": "oop11 ukol\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T15:08:09.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Obdelnik.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\Obdelnik.cpp",
+              "RelativeDocumentMoniker": "oop11 ukol\\Obdelnik.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\Obdelnik.cpp",
+              "RelativeToolTip": "oop11 ukol\\Obdelnik.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T15:07:59.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kruh.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\Kruh.cpp",
+              "RelativeDocumentMoniker": "oop11 ukol\\Kruh.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\Kruh.cpp",
+              "RelativeToolTip": "oop11 ukol\\Kruh.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T15:07:54.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ctverec.cpp",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\Ctverec.cpp",
+              "RelativeDocumentMoniker": "oop11 ukol\\Ctverec.cpp",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\Ctverec.cpp",
+              "RelativeToolTip": "oop11 ukol\\Ctverec.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T15:07:49.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ctverec.h",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\Ctverec.h",
+              "RelativeDocumentMoniker": "oop11 ukol\\Ctverec.h",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\Ctverec.h",
+              "RelativeToolTip": "oop11 ukol\\Ctverec.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-06T15:07:43.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Kruh.h",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\Kruh.h",
+              "RelativeDocumentMoniker": "oop11 ukol\\Kruh.h",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\Kruh.h",
+              "RelativeToolTip": "oop11 ukol\\Kruh.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-06T15:07:35.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Obdelnik.h",
+              "DocumentMoniker": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\Obdelnik.h",
+              "RelativeDocumentMoniker": "oop11 ukol\\Obdelnik.h",
+              "ToolTip": "C:\\Users\\filip\\Documents\\vysok\u00E1\\oop\\oop11 ukol\\oop11 ukol\\Obdelnik.h",
+              "RelativeToolTip": "oop11 ukol\\Obdelnik.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-06T15:07:27.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
