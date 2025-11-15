@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+
+<VBox xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="cz.uhk.ladybug.MainMenuController"
+      alignment="CENTER" spacing="20" style="-fx-background-color: #f0f0f0;">
+    
+    <padding>
+        <Insets top="30" right="30" bottom="30" left="30"/>
+    </padding>
+
+    <!-- Nadpis -->
+    <Label text="Ladybug Game" style="-fx-text-fill: #2c3e50;">
+        <font>
+            <Font name="System Bold" size="32"/>
+        </font>
+    </Label>
+
+    <!-- Uvítací text -->
+    <Label fx:id="welcomeLabel" text="Vítejte, Player!" style="-fx-text-fill: #34495e;">
+        <font>
+            <Font size="18"/>
+        </font>
+    </Label>
+
+    <!-- Statistiky -->
+    <VBox spacing="10" alignment="CENTER">
+        <Label fx:id="currentScoreLabel" text="Aktuální skóre: 0" style="-fx-text-fill: #16a085;">
+            <font>
+                <Font size="16"/>
+            </font>
+        </Label>
+        <Label fx:id="highScoreLabel" text="Nejvyšší skóre: 0" style="-fx-text-fill: #e74c3c;">
+            <font>
+                <Font size="16"/>
+            </font>
+        </Label>
+        <Label fx:id="levelLabel" text="Úroveň: 1" style="-fx-text-fill: #9b59b6;">
+            <font>
+                <Font size="16"/>
+            </font>
+        </Label>
+    </VBox>
+
+    <!-- Separator -->
+    <Separator/>
+
+    <!-- Nastavení -->
+    <GridPane hgap="10" vgap="10" alignment="CENTER">
+        <Label text="Uživatelské jméno:" GridPane.columnIndex="0" GridPane.rowIndex="0"/>
+        <TextField fx:id="usernameField" promptText="Zadejte jméno" GridPane.columnIndex="1" GridPane.rowIndex="0"/>
+        
+        <Label text="Obtížnost:" GridPane.columnIndex="0" GridPane.rowIndex="1"/>
+        <ComboBox fx:id="difficultyComboBox" GridPane.columnIndex="1" GridPane.rowIndex="1"/>
+    </GridPane>
+
+    <!-- Tlačítka -->
+    <HBox spacing="10" alignment="CENTER">
+        <Button fx:id="startButton" text="Nová hra" onAction="#handleStart" 
+                style="-fx-background-color: #27ae60; -fx-text-fill: white;" minWidth="100"/>
+        <Button fx:id="addPointsButton" text="Přidat body" onAction="#handleAddPoints" 
+                style="-fx-background-color: #3498db; -fx-text-fill: white;" minWidth="100"/>
+        <Button fx:id="resetButton" text="Reset" onAction="#handleReset" 
+                style="-fx-background-color: #e74c3c; -fx-text-fill: white;" minWidth="100"/>
+        <Button fx:id="saveButton" text="Uložit" onAction="#handleSave" 
+                style="-fx-background-color: #f39c12; -fx-text-fill: white;" minWidth="100"/>
+    </HBox>
+
+    <Label text="Testovací rozhraní pro save/load funkcionalitu" style="-fx-text-fill: #7f8c8d; -fx-font-size: 12;">
+        <padding>
+            <Insets top="20"/>
+        </padding>
+    </Label>
+</VBox>
